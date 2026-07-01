@@ -39,7 +39,7 @@ CTF stands for Capture The Flag, a style of hacking event where you have one goa
 | Moderate   | [Hackyholidays CTF][25]                           | Web          | 12 / 12     |
 | Moderate   | [Y2FuIHlvdSByZWNvbj8/][26]                        | Web, Recon   | 3 / 3      |
 
-[1]: ./A_little_something_to_get_you_started.md
+[1]: ./A_little_something_to_get_you_started
 [2]: ./Micro_CMS_v1
 [3]: ./Micro_CMS_v2
 [4]: ./Encrypted_Pastebin
