@@ -1,6 +1,6 @@
 # Hints for "A little something to get you started"
 
-## [Flag0](./flags/flag_0.md) -- Found
+## [Flag0](./flags/Readme.md) -- Found
 
 - Take a look at the source for the page
 - Does anything seem out of the ordinary?
